@@ -225,6 +225,7 @@ The oracle is neither ownership evidence nor a payout decision.
 contracts/terra_shield_permanence_oracle.py
 tests/test_terra_shield_permanence_oracle.py
 README.md
+requirements.txt
 LICENSE
 .gitignore
 ```
