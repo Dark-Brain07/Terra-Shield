@@ -224,7 +224,6 @@ The oracle is neither ownership evidence nor a payout decision.
 ```text
 contracts/terra_shield_permanence_oracle.py
 tests/test_terra_shield_permanence_oracle.py
-samples/studionet-demo.json               # exact verified Studionet inputs and outcomes
 README.md
 requirements.txt
 LICENSE
